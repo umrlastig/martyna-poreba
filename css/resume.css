@@ -176,7 +176,9 @@ section.resume-section .resume-item .resume-date {
 }
 
 .bg-primary {
-  background-color: #94c01a !important;
+  /*background-color: #94c01a !important;*/
+  background-color: #a79280 !important; 
+
 }
 
 .text-primary {
@@ -651,8 +653,8 @@ nav#filter a {
   height: 80px;
   position: absolute;
   z-index: 100;
-  /*background-color: #94c01a;*/ 
-  background-color: #a79280;
+  background-color: #94c01a;
+  /*background-color: #a79280;*/
   color: white;
   border-radius: 100%;
   border: 7px solid #f1f1f1;
